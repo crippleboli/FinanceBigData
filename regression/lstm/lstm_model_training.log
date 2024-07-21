@@ -1,0 +1,9 @@
+WARNING:tensorflow:From C:\Users\ye'lai\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From C:\Users\ye'lai\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+INFO:__main__:模型训练完成，开始预测...
+INFO:__main__:LSTM模型 MAE: 0.15587639224940336
+INFO:__main__:LSTM模型 MSE: 0.03430410389576492
+INFO:__main__:LSTM模型 RMSE: 0.1852136709202777
+INFO:__main__:LSTM模型 R^2: 0.9838150316891044
